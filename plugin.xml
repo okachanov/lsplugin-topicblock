@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Topic block</lang>
+		<lang name="russian">Запрет редактирования комментированного топика</lang>
+	</name>
+	<author>
+		<lang name="default">Germis	</lang>
+	</author>
+	<homepage>http://germis.name</homepage>
+	<version>1.1.2</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Makes impossible to edit or move topic in drafts if you have any comments to it</lang>
+		<lang name="russian">Делает невозможным редактирование или перемещение топика в черновики если к нему есть комментарии</lang>
+	</description>
+</plugin>
